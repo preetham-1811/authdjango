@@ -1,0 +1,12 @@
+/* djsr/frontend/static/frontend/style.css */
+
+#root{
+    background-color:rebeccapurple;
+    color:white;
+}
+
+.nav-link{
+    color:white;
+    border: 1px solid white;
+    padding: 1em;
+}
